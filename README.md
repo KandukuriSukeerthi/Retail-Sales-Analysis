@@ -8,9 +8,13 @@ In the Retail Sales Analysis project, I explored and visualized four years of Su
 Objectives
 
 1.Calculate total sales and identify top revenue-generating regions or markets.
+
 2.Analyze sales performance by year, month, and weekday.
+
 3.Assess product unit sales and profit margins across categories.
+
 4.Examine the effects of discounts on sales and profits, identifying underperforming sub-categories.
+
 5.Track quarterly and yearly sales and profit trends to evaluate growth.
 
 Data Analysis and Findings

@@ -6,6 +6,7 @@ Project Summary
 In the Retail Sales Analysis project, I explored and visualized four years of Superstore sales data (2011-2014) to uncover key insights into revenue performance, profit margins, and growth trends. Using a combination of Python for data processing and Power BI for interactive visualizations, my goal was to help identify the primary drivers of revenue and profitability while assessing factors such as discount impacts and product performance. The project focused on practical questions aimed at helping the business optimize its strategies for increased sales and sustainable growth.
 
 Objectives
+
 1.Calculate total sales and identify top revenue-generating regions or markets.
 2.Analyze sales performance by year, month, and weekday.
 3.Assess product unit sales and profit margins across categories.

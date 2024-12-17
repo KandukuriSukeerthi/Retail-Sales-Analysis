@@ -1,4 +1,4 @@
-![Dashboard preview](RetailSalesAnalysis.png)
+![Dashboard preview](RetailSalesDashboard.png)
 
 # Retail-Sales-Analysis
 

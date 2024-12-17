@@ -1,3 +1,5 @@
+![Dashboard preview](RetailSalesAnalysis.png)
+
 # Retail-Sales-Analysis
 
 Dataset Link: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset

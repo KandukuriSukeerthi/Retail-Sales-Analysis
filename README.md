@@ -1,4 +1,4 @@
-![Dashboard preview](RetailSalesDashboard.png)
+![Dashboard preview](Dashboard/RetailSalesDashboard.png)
 
 # **Retail Sales Analysis: Driving Business Growth Through Data Insights**  
 
